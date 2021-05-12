@@ -35,6 +35,6 @@
  <h2></h2>
  <h3>> Stats </h3>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedCandyy&layout=compact&theme=radica">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedCandyy&layout=compact&theme=radical">
  </p>
  <h2></h2>
