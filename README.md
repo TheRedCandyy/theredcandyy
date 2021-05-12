@@ -38,7 +38,7 @@
   <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="75%">
  </p>
  <h2></h2>
- <h3>> Stats </h3>
+ <h3 align="center">~ Stats ~</h3>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedCandyy&layout=compact&theme=darcula">
  </p>
