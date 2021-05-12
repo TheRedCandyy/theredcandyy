@@ -1,9 +1,14 @@
  <h1 align="center">Welcome to my profile 📃 </h1>
  <h2><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ~About Me~ </b></h2>
+ <img align="right" src="https://github.com/TheRedCandyy/portfolio/blob/main/images/travis1.gif">
+ <br>
+ <br>
  <li>My name is Alexandre Tavares. ✨</li>
  <li>I'm a young portuguese developer. 🧷</li>
  <li>Love playing games. 🎮</li>
  <li>I also am a very big fan of Sir Travis Scott. 🌵</li>
+ <br>
+ <br>
  <h1>
  <h3 align="center"> 🔧 ~Languages and tools~ 🔧</h3>
  <div float="left">
