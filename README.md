@@ -35,7 +35,7 @@
  <h2></h2>
  <h3 align="center">👨‍💻 ~Studying Programming and Software Development~ 👨‍💻</h3>
  <p align="center">
-  <img src="https://github.com/TheRedCandyy/portfolio/images/trippy_wow.gif" width="75%">
+  <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="75%">
  </p>
  <h2></h2>
  <h3 align="center">~ Stats ~</h3>
