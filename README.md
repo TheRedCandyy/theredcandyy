@@ -14,19 +14,12 @@
  <div float="left">
    <h3 align="left">
     <b>&nbsp&nbsp&nbsp&nbsp&nbsp ~ Web Dev ~ </b>
-    <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-     ~ Software Dev ~ 
-    </b>
   </h3>
  <p>
   <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35">
   <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="35">
   <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35">
   <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="35">
-  <img align="right" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua.png" height="35">
-  <img align="right" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="35">
-  <img align="right" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="35">
-  <img align="right" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="35">
  </p>
  </div>
  <br>
