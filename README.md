@@ -6,7 +6,7 @@
  <li>My name is Alexandre Tavares. ✨</li>
  <li>I'm a young portuguese developer. 🧷</li>
  <li>Love playing games. 🎮</li>
- <li>I also am a very big fan of Sir Travis Scott. 🌵</li>
+ <li>I also am a very big fan of Travis Scott. 🌵</li>
  <br>
  <br>
  <h1>
