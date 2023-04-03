@@ -4,29 +4,11 @@
  <br>
  <br>
  <li>My name is Alexandre Tavares. ✨</li>
- <li>I'm a young portuguese developer. 🧷</li>
- <li>Love playing games. 🎮</li>
- <li>I also am a very big fan of Travis Scott. 🌵</li>
+ <li>I'm a portuguese developer. 🧷</li>
+ <li>Currently working as a Salesforce Commerce Cloud Developer.</li>
  <br>
- <br>
- <h1>
- <h3 align="center"> 🔧 ~Languages and tools~ 🔧</h3>
- <div float="left">
-   <h3 align="left">
-    <b>&nbsp&nbsp&nbsp&nbsp&nbsp ~ Web Dev ~ </b>
-  </h3>
- <p>
-  <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="35">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="35">
- </p>
- </div>
- <br>
- <br>
- <br>
+ <br> 
  <h2></h2>
- <h3 align="center">👨‍💻 ~Studying Programming and Software Development~ 👨‍💻</h3>
  <p align="center">
   <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="40%">
  </p>
