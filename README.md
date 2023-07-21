@@ -4,13 +4,13 @@
  <br>
  <br>
  <li>My name is Alexandre Tavares. ✨</li>
- <li>I'm a portuguese developer. 🧷</li>
- <li>Currently working as a Salesforce Commerce Cloud Developer.</li>
+ <li>I'm 21 years old, base in Lisbon, Portugal. 🧷</li>
+ <li>Currently working as a Salesforce Commerce Cloud Developer and moving to FE.</li>
  <br>
  <br> 
  <h2></h2>
  <p align="center">
-  <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="40%">
+ <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="40%">
  </p>
  <h2></h2>
  <h3 align="center">~ Stats ~</h3>
