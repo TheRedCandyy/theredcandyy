@@ -1,8 +1,8 @@
  <h1 align="center">Welcome to my profile 📃 </h1>
  <h2><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ~About Me~ </b></h2>
 <div align="right">
- <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dontoliver-travis-scott-don-toliver-flocky-L0aAMGbDzWFIudJh3J">via GIPHY</a></p>
-</div>div>
+<iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
  <br>
  <br>
  <li>My name is Alexandre Tavares. ✨</li>
