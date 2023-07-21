@@ -1,7 +1,7 @@
  <h1 align="center">Welcome to my profile 📃 </h1>
  <h2><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ~About Me~ </b></h2>
 <div align="right">
-<iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="100%" height="100%">
 </div>
  <br>
  <br>
