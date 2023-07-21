@@ -1,8 +1,6 @@
  <h1 align="center">Welcome to my profile 📃 </h1>
  <h2><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ~About Me~ </b></h2>
-<div align="right">
-<img src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="100%" height="100%">
-</div>
+ <img align="right" src="https://github.com/TheRedCandyy/portfolio/img/trav.gif" width="40%">
  <br>
  <br>
  <li>My name is Alexandre Tavares. ✨</li>
@@ -12,7 +10,7 @@
  <br> 
  <h2></h2>
  <p align="center">
- <img src="https://github.com/TheRedCandyy/portfolio/blob/main/images/trippy_wow.gif" width="40%">
+ <img src="https://github.com/TheRedCandyy/portfolio/img/trippy-dots.gif" width="40%">
  </p>
  <h2></h2>
  <h3 align="center">~ Stats ~</h3>
