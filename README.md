@@ -1,7 +1,6 @@
  <h1 align="center">Welcome to my profile 📃 </h1>
  <h2><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ~About Me~ </b></h2>
 ![trav](https://github.com/TheRedCandyy/theredcandyy/assets/66254675/bc6716e6-cdc8-4697-a0eb-4462aa08e53d)
-gif"
  <br>
  <br>
  <li>My name is Alexandre Tavares. ✨</li>
