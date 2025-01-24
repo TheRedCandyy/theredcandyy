@@ -4,7 +4,7 @@
  <li>Currently working as front-end engineer mostly using React.</li>
  <li>Also a Certified SFCC B2C Developer.</li>
  <p align="center">
-  <img src="http![Alexandre Tavares](https://github.com/user-attachments/assets/cec45a7e-34d6-44ca-9e69-4bcf96a22151)
+  [Alexandre Tavares](https://github.com/user-attachments/assets/cec45a7e-34d6-44ca-9e69-4bcf96a22151)
  </p>
  <h3 align="center">~ Stats ~</h3>
  <p align="center">
